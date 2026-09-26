@@ -41,7 +41,9 @@ look at picture 2.
 # picture 2.
 
 <img width="1439" height="802" alt="image" src="https://github.com/user-attachments/assets/6ab7f950-0121-4afc-805d-0cb0ad02f1ae" />
+ ---- -----
 # DevLog_2
+
 # 2026-09-11
 
 
