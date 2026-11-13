@@ -1,6 +1,3 @@
-Hi! the first two Developer logs sadly wont be the forge format, since i forgot to do it (lol)
-
-I hope the two non forge format dev logs are still good!
 
 # DevLog_1
 # 2026-09-10
