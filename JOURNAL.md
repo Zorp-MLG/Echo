@@ -79,10 +79,9 @@ look at picture 2.
 
 <img width="607" height="237" alt="image" src="https://github.com/user-attachments/assets/c656e76e-087b-4344-8d8a-9375f984394a" />
 
-Now the good format!
 
 ---
-title: "Echo"
+title: "Echo DEVLOG 2"
 author: "Mustafa Berisha"
 description: "An ai assitant"
 created_at: "2026-09-26"
@@ -106,3 +105,25 @@ But now i also started the PCB layout and even started some of the routing!
 I think the routing looks pretty good right now! But all PCBs look good at the start though lol.
 **Total time spent: 2.5 hours**
 
+
+
+
+---
+title: "Echo DEVLOG 3"
+author: "Mustafa Berisha"
+description: "An ai assitant"
+created_at: "2026-09-26"
+---
+
+# Nov 14
+
+i finished the routing!
+I used autorouter, since it works fine for this:sob:
+<img width="563" height="389" alt="image" src="https://github.com/user-attachments/assets/6be85f37-6e1d-42ff-8101-f1e06d8c3293" />
+<img width="817" height="568" alt="image" src="https://github.com/user-attachments/assets/525902cf-af16-4c22-99cf-0ca24d917213" />
+(the 3d render kinda sucks lol)
+
+i did a different layout then the one in the devlog before, i made it slightly better!
+
+Next devlog will be the last one probably! i will finish the repo, maybe do some art?
+**Total time spent:  20 minutes**
