@@ -1,4 +1,4 @@
-<img width="2000" height="2000" alt="ECHOO" src="https://github.com/user-attachments/assets/cf5f9310-f723-4a03-9de5-2fa5271e829f" />
+<img width="2000" height="2000" alt="ECHO LOGO" src="https://github.com/user-attachments/assets/cf5f9310-f723-4a03-9de5-2fa5271e829f" />
 
 
 # ECHO AI
@@ -18,14 +18,54 @@ I wanted something that can help me solder, by using the sensors to see if the i
 
 # Who should use echo?
 
-Anywhere from students/teachers, factorys/business to hobbiest.
+Anywhere from students/teachers, factories/business to hobbyist.
 
 students and teachers can use it to learn better by using something that knows the theory.
 
 Factorys and business can use it to help workers know what to do.
 
-Hobbiest can use it for the same reasons of students!
+Hobbyistcan use it for the same reasons of students!
 
 
-# Whats the specs?
+# How does it look?
+(bare pcb)
+<img width="527" height="353" alt="2D PCB" src="https://github.com/user-attachments/assets/05e22f23-43d7-474f-9d24-99fa6e9252d4" />
+<img width="839" height="704" alt="3D PCB SIDE" src="https://github.com/user-attachments/assets/86f7523a-0658-4e92-ac18-4ffd30411a3a" />
+<img width="823" height="588" alt="3D PCB TOP" src="https://github.com/user-attachments/assets/30601d92-c07a-497c-8b24-c5bde0c6a142" />
 
+# Wheres the files to remake this?
+In main branch
+
+# How do i recreate this?
+
+1.Get PCB files.
+2.Fabricate it.
+3.buy all the semiconductors/modules.
+4.solder it together.
+5.download all the software you need(esp32, ai etc etc).
+6.connect the microcontroller via usb to your PC.
+7.transfer all the files/Set it up.
+8. done.
+
+# BOM:
+
+| ITEMS:             | PRICE ESTIMATE: | UNITS: | TOTAL:  |   
+|--------------------|-----------------|--------|---------|
+| XIAO_ESP32S3       | 20 USD          | 2      |         | 
+| XIAO_ESP32S3 SENSE | 20 USD          | 2      |         |  
+| MQ-2               | 5 USD           | 1      |         |
+| MQ-135             | 5 USD           | 1      |         |
+| INMP441            | 5 USD           | 2      |         |
+| PMS7003            | 30 USD          | 1      |         |
+| TSL2561T           | 10 USD          | 1      |         |   
+| BME680             | 10 USD          | 1      |         |  
+| MAX7219            | 15 USD          | 1      |         |  
+| CD74HCT125E        | 1 USD           | 1      |         |   
+| SG90-SERVO         | 5 USD           | 4      |         |  
+| 100k RES           | 0.10 USD        | 7      |         |  
+| MOSFET             | 0.69 USD        | 3      |         |  
+| USB C              | 0.50 USD        | 4      |         |   
+| 1N5819             | 0.10 USD        | 3      |         |   
+| 100uF CAP          | 0.48 USD        | 1      |         |  
+|                    |                 |        | $191.55 |
+|                    |                 |        |         |
