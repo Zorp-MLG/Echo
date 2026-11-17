@@ -125,3 +125,17 @@ I did a different layout than the one in the devlog before, I made it slightly b
 Next devlog will be the last one probably! I will finish the repo, maybe do some art?
 
 **Total time spent: 20 minutes**
+
+---
+
+# DevLog 5
+
+## Nov 17: finished!
+
+I fully finished the repo, sch, and pcb!
+
+I sent in the application
+
+<img width="1688" height="767" alt="picture of repo" src="https://github.com/user-attachments/assets/ef6b0e2a-4b74-4507-8d69-bea14c447af0" />
+
+
