@@ -78,3 +78,10 @@ Each sensor sends data to the Microcontrollers, and those Microcontrollers sends
 The AI decides what to do with the data. The AI can for example move the camera or turn on a fan via keywords in the firmware of the Microcontroller.
 
 The Microcontroller reads thru the message and registers that the ai used an keyword like "Turn_on_fan", and the Microcontroller turns on the fan.
+
+# Picture of schematic:
+<img width="711" height="502" alt="image" src="https://github.com/user-attachments/assets/7ea82394-01a3-4ad3-9d91-a9e1d259310d" />
+
+# PDF of schematic:
+[Schematic_Echo_2026-11-21.pdf](https://github.com/user-attachments/files/35217184/Schematic_Echo_2026-11-21.pdf)
+
