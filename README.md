@@ -69,3 +69,12 @@ In main branch
 | 100uF CAP          | 0.48 USD        | 1      |         |  
 |                    |                 |        | $191.55 |
 |                    |                 |        |         |
+
+
+# How it works together 
+
+Each sensor sends data to the Microcontrollers, and those Microcontrollers sends data to an AI in an prompt. The prompt includes each sensors data, and the prompt gets updated after a set amount of time. 
+
+The AI decides what to do with the data. The AI can for example move the camera or turn on a fan via keywords in the firmware of the Microcontroller.
+
+The Microcontroller reads thru the message and registers that the ai used an keyword like "Turn_on_fan", and the Microcontroller turns on the fan.
