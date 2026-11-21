@@ -7,7 +7,7 @@
 ---
 # What is echo?
 
-Its an half embodied ai, it doesnt have legs, but it has servos so the ai can move the camera.'
+Its an half embodied ai, it doesnt have legs, but it has servos so the ai can move the camera.
 Echo also has speakers and microphones, so you can "talk" with it.
 You can use both local ai, and APIs!
 
